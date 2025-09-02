@@ -122,7 +122,7 @@ my_id/
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────┐ │
 │  │ Data Sources│  │   Models    │  │   Repositories      │ │
 │  │             │  │             │  │                     │ │
-│  │MyIdDataSource│  │AccessToken  │  │ AuthRepositoryImpl │ │
+│  │MyIdDataSource│ │AccessToken  │  │ AuthRepositoryImpl │ │
 │  │             │  │UserModel    │  │                     │ │
 │  └─────────────┘  └─────────────┘  └─────────────────────┘ │
 └─────────────────────────────────────────────────────────────┘

@@ -115,7 +115,7 @@ flutter test test/features/auth/domain/usecases/get_access_token_test.dart
 ## 📚 Documentation
 
 - **[Architecture Documentation](ARCHITECTURE.md)** - Detailed architecture explanation
-- **[API Documentation](https://myid.uz/docs)** - MyID API reference
+- **[API Documentation](https://docs.myid.uz/#/ru/sdk)** - MyID API reference
 - **[Flutter Documentation](https://docs.flutter.dev)** - Flutter framework docs
 
 ## 🤝 Contributing
